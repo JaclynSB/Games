@@ -1,2 +1,2 @@
 # Games
-Making games to continue learning and improve my Python
+Making games to continue my learning in Python
